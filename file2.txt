@@ -1,2 +1,2 @@
 file2
-new line
+new line 
